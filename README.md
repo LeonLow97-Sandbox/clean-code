@@ -1,5 +1,9 @@
 # Introduction
 
-## What is "Clean Code"?
+### Naming
 
-- 
+- Variables and constants
+- Functions / Methods
+- Classes
+
+### 
