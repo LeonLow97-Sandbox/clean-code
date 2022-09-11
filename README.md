@@ -173,3 +173,5 @@ if (!isEmail(email)) {
 
 <img src="./pics/function-testing.png">
 
+# Control Structures and Errors
+
