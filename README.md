@@ -175,3 +175,6 @@ if (!isEmail(email)) {
 
 # Control Structures and Errors
 
+# Classes & Objects
+
+### 
